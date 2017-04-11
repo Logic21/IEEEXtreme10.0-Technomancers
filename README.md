@@ -9,11 +9,8 @@ The Technomancers is a three person Undergraduate team from Louisiana Tech Unive
 * P01 - Dog Walking/DogWalking.py
 * P05 - Food Truck/FoodTruck.py
 * P06 - Memory Management/MemoryManagement.py
-* P12 - Mysterious Maze/MysteriousMaze.py
 * P14 - Forum Threads/ForumThreads.py
-* P15 - Island Hopping 1/IslandHopping1.py
 * P16 - Full Adder/FullAdder.py
-* P17 - Finding Shelter/FindingShelter.py
 * P19 - Flower Games/FlowerGames.py
 * P23 - P is NP/PisNP.py
 
