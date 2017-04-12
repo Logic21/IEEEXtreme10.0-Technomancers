@@ -20,6 +20,7 @@ The Technomancers is a three person Undergraduate team from Louisiana Tech Unive
 * P11 - Game of Stones/GameOfStones.java
 
 #### Chris Rodriguez : Sophomore in Cyber Engineering
+* P12 - Mysterious Maze/MysteriousMaze.java
 
 ### Ranking
 * World: 167 of 1823
