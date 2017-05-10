@@ -1,4 +1,4 @@
-# IEEEXtreme10-Technomancers
+# IEEEXtreme10.0-Technomancers
 Challenge Submissions for the IEEEXtreme 10.0 24-Hour Programming Competition for team Technomancers
 
 ## The Technomancers
