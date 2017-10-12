@@ -36,4 +36,4 @@ for test in range(num_tests):
     #if num_reduce > len(ranges):
         #num_reduce = len(ranges)
 
-    print sum(ranges[0:num_reduce])
+    print(sum(ranges[0:num_reduce]))
