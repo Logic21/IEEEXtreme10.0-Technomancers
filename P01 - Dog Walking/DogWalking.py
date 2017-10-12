@@ -24,7 +24,8 @@ for test in range(num_tests):
     num_reduce = num_dogs-num_walkers
 
     dogs = data[0:num_dogs]
-    dogs = [int(x) for x in dogs]
+    #dogs = [int(x) for x in dogs]
+    dogs = list(map(int, dogs))
     data = data[num_dogs:]
     dogs.sort()# = sorted(set(dogs))
 
