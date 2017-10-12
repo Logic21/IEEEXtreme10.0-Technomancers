@@ -3,8 +3,8 @@ import sys
 def calc_ranges(items):
     diffs = []
     for idx, val in enumerate(items):
-     if len(items) > idx+1:
-         diffs.append(items[idx+1]-items[idx])
+        if len(items) > idx+1:
+            diffs.append(items[idx+1]-items[idx])
     return diffs
 
 #All Stdin at once!
