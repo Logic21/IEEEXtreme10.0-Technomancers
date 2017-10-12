@@ -21,7 +21,7 @@ for test in range(num_tests):
     # Number of Dogs, Walkers, and how many need to be combined into groups
     num_dogs = int(tmp[0])
     num_walkers = int(tmp[1])
-    num_reduce = num_dogs-num_walkers
+    #num_reduce = num_dogs-num_walkers
 
     dogs = data[0:num_dogs]
     #dogs = [int(x) for x in dogs]
