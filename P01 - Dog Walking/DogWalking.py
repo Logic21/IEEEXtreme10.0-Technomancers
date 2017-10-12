@@ -33,7 +33,7 @@ for test in range(num_tests):
     ranges.sort()
 
     num_reduce = (len(dogs)-num_walkers)
-    if num_reduce > len(ranges):
-        num_reduce = len(ranges)
+    #if num_reduce > len(ranges):
+        #num_reduce = len(ranges)
 
     print sum(ranges[0:num_reduce])
